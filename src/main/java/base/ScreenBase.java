@@ -23,7 +23,7 @@ public class ScreenBase {
 
         driver.hideKeyboard();
     }
-// Test
+// Testt
 //    public void enter(){
 //
 //        ((AndroidDriver)driver).pressKey(new KeyEvent(AndroidKey.ENTER));

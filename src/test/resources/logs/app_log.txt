@@ -1,0 +1,4 @@
+Appium server started
+Android_flipboard.properties properties file loaded!!!
+Test case execution completed
+Appium server stopped
